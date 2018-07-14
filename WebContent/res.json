@@ -1,0 +1,124 @@
+{
+	"images": [
+		{
+			"name": "land",
+			"url": "res/img/land.jpg"
+		},
+		{
+			"name": "shadow",
+			"url": "res/img/shadow.png"
+		},
+		{
+			"name": "bomb1",
+			"url": "res/img/bomb1.png"
+		},
+		{
+			"name": "bomb2",
+			"url": "res/img/bomb2.png"
+		},
+		{
+			"name": "bomb3",
+			"url": "res/img/bomb3.png"
+		},
+		{
+			"name": "role1_1_1",
+			"url": "res/img/role1_1_1.png"
+		},
+		{
+			"name": "role1_1_2",
+			"url": "res/img/role1_1_2.png"
+		},
+		{
+			"name": "role1_1_3",
+			"url": "res/img/role1_1_3.png"
+		},
+		{
+			"name": "role1_1_4",
+			"url": "res/img/role1_1_4.png"
+		},
+		{
+			"name": "role1_2_1",
+			"url": "res/img/role1_2_1.png"
+		},
+		{
+			"name": "role1_2_2",
+			"url": "res/img/role1_2_2.png"
+		},
+		{
+			"name": "role1_2_3",
+			"url": "res/img/role1_2_3.png"
+		},
+		{
+			"name": "role1_2_4",
+			"url": "res/img/role1_2_4.png"
+		},
+		{
+			"name": "role1_3_1",
+			"url": "res/img/role1_3_1.png"
+		},
+		{
+			"name": "role1_3_2",
+			"url": "res/img/role1_3_2.png"
+		},
+		{
+			"name": "role1_3_3",
+			"url": "res/img/role1_3_3.png"
+		},
+		{
+			"name": "role1_3_4",
+			"url": "res/img/role1_3_4.png"
+		},
+		{
+			"name": "role1_4_1",
+			"url": "res/img/role1_4_1.png"
+		},
+		{
+			"name": "role1_4_2",
+			"url": "res/img/role1_4_2.png"
+		},
+		{
+			"name": "role1_4_3",
+			"url": "res/img/role1_4_3.png"
+		},
+		{
+			"name": "role1_4_4",
+			"url": "res/img/role1_4_4.png"
+		},
+		{
+			"name": "wall",
+			"url": "res/img/wall.png"
+		},
+		{
+			"name": "fire1",
+			"url": "res/img/fire1.png"
+		},
+		{
+			"name": "fire2",
+			"url": "res/img/fire2.png"
+		},
+		{
+			"name": "fire3",
+			"url": "res/img/fire3.png"
+		},
+		{
+			"name": "fire4",
+			"url": "res/img/fire4.png"
+		},
+		{
+			"name": "fire5",
+			"url": "res/img/fire5.png"
+		},
+		{
+			"name": "arrows1",
+			"url": "res/img/arrows1.png"
+		},
+		{
+			"name": "arrows2",
+			"url": "res/img/arrows2.png"
+		},
+		{
+			"name": "arrows3",
+			"url": "res/img/arrows3.png"
+		}
+	]
+}

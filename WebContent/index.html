@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<style type="text/css">
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	overflow: hidden;
+}
+
+#myCanvas {
+	/* border: 1px solid black; */
+	position: absolute;
+}
+
+#wrapper {
+	position: absolute;
+	margin-left: 640px;
+}
+</style>
+</head>
+<body>
+	<canvas id=myCanvas></canvas>
+	<div id="wrapper" style="width: 100%; float: left;">
+		<div id="tip"></div>
+		<input type="text" id="conUrl" style="width: 100%;"
+			value="localhost:8080/bubble/websocket" />
+		<button type="button" id="conBtn">连接</button>
+	</div>
+	<script src="js/Game.js"></script>
+	<script src="js/Land.js"></script>
+	<script src="js/Player.js"></script>
+	<script src="js/Arrows.js"></script>
+	<script src="js/PlayerRender.js"></script>
+	<script src="js/Bomb.js"></script>
+	<script src="js/Wall.js"></script>
+	<script src="js/Fire.js"></script>
+	<script src="js/Connect.js"></script>
+	
+	<script>
+        var con = new Connect();
+    </script>
+	<script>
+        var game = new Game({
+            "id":"myCanvas",
+            "resUrl":"res.json"
+        });
+    </script>
+</body>
+</html>
